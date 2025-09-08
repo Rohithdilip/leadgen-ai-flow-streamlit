@@ -1,0 +1,12 @@
+Company Name,Subject,Body For Email,Tone,Word Count,Source,LLM Error,Website,Industry,Employees,Location,Insights
+TechNova Solutions,Accelerating TechNova’s AI-Infused SaaS Roadmap,"Hi TechNova team,
+
+I noticed your roadmap is adding AI/ML modules and that you’re scaling CI/CD across India. At Wednesday we’ve helped 40+ SaaS firms embed AI pipelines without disrupting existing sprints, cutting release cycles 35%. Our India-based squads pair with your devs to ship container-ready models, secure regional data residency, and keep GitOps intact.
+
+Could we share a 15-min call this week to map quick wins for your upcoming releases?
+
+Warm Regards,
+Rohith Dilip
+Wednesday Solutions",consultative and professional,95,groq,,https://technova.example,Software,120,"Bengaluru, IN","SaaS roadmap includes AI/ML modules
+Active in developer ecosystem; likely uses CI/CD
+Operating in India with regional growth"
